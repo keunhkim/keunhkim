@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there :wave:
+I'm Keun Ho.
+Working as the business Analyst with vast amount of experience in air cargo indsustry.
+
+Currently pivoting my career to data analyst.
+
+Living in Seoul, Republic of Korea ATM.
+<!--
+:wave: I'm a self-taught business analyst
+-->
 
 <!--
 **keunhkim/keunhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
